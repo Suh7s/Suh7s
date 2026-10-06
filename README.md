@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Suh7s
 - 👀 I’m interested in AI, AGI & Robotics 🤖
-- 🌱 I’m currently learning Machine Learning and Computer Vision
-- 💞️ I’m looking to collaborate on AI-powered assistants & AGI projects
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on AI-powered robots & AGI projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m on a mission to build AI that makes life better for everyone! 🚀
 
